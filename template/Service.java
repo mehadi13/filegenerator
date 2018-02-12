@@ -5,7 +5,8 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import <package>.<ClassName>;
+import <package>.model.<ClassName>;
+import <package>.repository.<ClassName>Repository;
 
 @Service
 public class <ClassName>Service {
